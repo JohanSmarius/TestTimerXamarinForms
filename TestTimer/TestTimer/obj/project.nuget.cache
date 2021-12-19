@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tUzisrDmCIKVS70a6ambAC2gjQ6fjxbc3H+3GbZboEKoVyNGIwxywKELfW4AqsAryvFhDPq7Z1DJ1yZY2UZs0A==",
+  "success": true,
+  "projectFilePath": "/Users/johansmarius/Projects/TestTimer/TestTimer/TestTimer/TestTimer.csproj",
+  "expectedPackageFiles": [
+    "/Users/johansmarius/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/johansmarius/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/johansmarius/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/johansmarius/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/johansmarius/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

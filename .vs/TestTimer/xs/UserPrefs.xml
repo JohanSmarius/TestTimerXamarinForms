@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{D7EB0B90-F182-4F48-8C52-2C0AB4EB018F}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestTimer.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestTimer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestTimer.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
