@@ -995,7 +995,7 @@
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/johansmarius/.nuget/NuGet/NuGet.Config"
+        "/Users/johansmarius/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"

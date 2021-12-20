@@ -537,7 +537,7 @@
       "outputPath": "/Users/johansmarius/Projects/TestTimer/TestTimer/TestTimer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/johansmarius/.nuget/NuGet/NuGet.Config"
+        "/Users/johansmarius/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -586,7 +586,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

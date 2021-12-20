@@ -1,6 +1,41 @@
 ﻿<Properties StartupConfiguration="{D7EB0B90-F182-4F48-8C52-2C0AB4EB018F}|Default">
-  <MonoDevelop.Ide.ItemProperties.TestTimer.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.TestTimer FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.TestTimer.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestTimer/TestTimer/Views/AboutPage.xaml.cs">
+    <Files>
+      <File FileName="TestTimer/TestTimer/Views/AboutPage.xaml" Line="28" Column="27" />
+      <File FileName="TestTimer/TestTimer/GettingStarted.txt" Line="1" Column="1" />
+      <File FileName="TestTimer/TestTimer/ViewModels/AboutViewModel.cs" Line="27" Column="1" />
+      <File FileName="TestTimer/TestTimer.Android/Properties/AssemblyInfo.cs" Line="31" Column="64" />
+      <File FileName="TestTimer/TestTimer/Views/AboutPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestTimer" expanded="True" selected="True">
+            <Node name="TestTimer" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="AboutPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TestTimer.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="12.1.99.117" />
+  <MonoDevelop.Ide.ItemProperties.TestTimer.Android PreferredExecutionTarget="Android.pixel_2_nougat_7_1_-_api_25" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_nougat_7_1_-_api_25" />
+  <MonoDevelop.Ide.ItemProperties.TestTimer.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.959359AA-F21A-4841-B458-123AC2BB4A97" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
